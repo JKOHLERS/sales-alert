@@ -4,7 +4,7 @@ import './styles.css'
 function NotificationButton() {
     return(
         <div className="red-btn">
-            <img src={icon} alt="notify"/>
+            <img src={icon} alt="Notify"/>
         </div>
     )
   }
